@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="apacImplanteTmp" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="370862d3-4d30-4921-9198-5dac78d4dd4d">
+	<property name="ireport.zoom" value="1.3310000000000064"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<background>
+		<band height="802" splitType="Stretch"/>
+	</background>
+	<detail>
+		<band height="802" splitType="Stretch">
+			<image>
+				<reportElement x="0" y="0" width="555" height="802" uuid="f1b453ad-1b78-4a94-9e1f-69d8c9a9a02e"/>
+				<imageExpression><![CDATA["C:\\Users\\Belgrano\\Documents\\Programação\\dente\\APAC\\relatorioCompleto_Borda.gif"]]></imageExpression>
+			</image>
+		</band>
+	</detail>
+</jasperReport>
